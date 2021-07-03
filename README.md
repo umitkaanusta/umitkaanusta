@@ -11,6 +11,12 @@ CS student creating cool tools here, aspiring to become a polymath
 :mag: Interests: Data science for strategic decision making, Blockchain, NLP, Network Science, Computational Social Science
 
 
+## Say Hi
+
+:bridge_at_night: A bay area cliché: Let me know how I can be helpful
+
+<a href="linkedin.com/in/umitkaanusta"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="u.kaanusta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ## Work with a freelancer whose first priority is to deliver solid results
 
@@ -27,12 +33,4 @@ I deliver data-informed solutions for different use cases. Here's what distingui
 
 Tech stack: Python (including data analysis and ML libraries), Java, Django/Flask/FastAPI, AWS, Postgres, MongoDB, Neo4j
 
-**Want to work but need more information about my past projects? Let's talk :point_down: **
-
-## 
-
-## Say Hi
-
-:bridge_at_night: A bay area cliché: Let me know how I can be helpful
-
-<a href="linkedin.com/in/umitkaanusta"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="u.kaanusta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+**Want to work but need more information about my past projects? [Let's talk](Say Hi)**
