@@ -33,4 +33,4 @@ I deliver data-informed solutions for different use cases. Here's what distingui
 
 Tech stack: Python (including data analysis and ML libraries), Java, Django/Flask/FastAPI, AWS, Postgres, MongoDB, Neo4j
 
-**Want to work but need more information about my past projects? [Let's talk](Say Hi)**
+**Want to work but need more information about my past projects? Let's talk ☝️**
