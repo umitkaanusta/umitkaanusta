@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Ümit Kaan Usta 
 
-![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta) <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@umitkaanusta)
 
 CS student creating cool tools here, aspiring to become a polymath
 
@@ -15,7 +15,8 @@ CS student creating cool tools here, aspiring to become a polymath
 
 :bridge_at_night: A bay area cliché: Let me know how I can be helpful
 
-<a href="linkedin.com/in/umitkaanusta"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="u.kaanusta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umitkaanusta)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u.kaanusta@gmail.com)
 
 
 ## Work with a freelancer whose first priority is to deliver solid results
