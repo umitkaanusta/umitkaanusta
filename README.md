@@ -6,7 +6,13 @@ CS student creating cool tools here, aspiring to become a polymath
 
 :round_pushpin: [Istanbul, Turkey](https://cekergezer.com/wp-content/uploads/2021/03/galata-kulesi-fotograflari-istanbul-fotograflari-cekergezer-hakan-aydin.jpg)
 
-:star: :detective: Wanna be able to detect political disinformation campaigns, discover how ideas spread between communities, find "cyborg-like" activities carried out by bots, and more? [**See reddit-detective**](https://github.com/umitkaanusta/reddit-detective)
+:star: :detective: [**reddit-detective:**](https://github.com/umitkaanusta/reddit-detective) Wanna be able to detect political disinformation campaigns, discover how ideas spread between communities, find "cyborg-like" activities carried out by bots and more in Reddit?
+
+:star: :european_castle: [**Jomini:**](https://github.com/umitkaanusta/Jomini) What if Byzantines had more soldiers in 1453? You can model this and many other historical battles
+
+:star: :baby_chick: [**TIA**](https://github.com/umitkaanusta/TIA) is an advanced Twitter stalking/analysis tool powered by machine learning.
+
+:star: :money: [**Trying a New Fraud Detection Approach for Trust Networks**](https://github.com/umitkaanusta/FraudRingDetection-TrustNetworks-Trying-New-Approach) While trying to detect fraud rings, I came up with an **individual fraud detection approach which is better than 9 of 10 well-known network-based fraud detection algorithms**.* (At least for this data set, I'll try it in different datasets and tune the models when I have time for that)
 
 :mag: Interests: Data science for strategic decision making, Blockchain, NLP, Network Science, Computational Social Science
 
