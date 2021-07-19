@@ -6,9 +6,9 @@ CS student creating cool tools here, aspiring to become a polymath
 
 :mag: **Interests:** Data science for strategic decision making, Blockchain, NLP, Network Science, Computational Social Science
 
-## :star: My favorite projects
-
 :round_pushpin: [Istanbul, Turkey](https://cekergezer.com/wp-content/uploads/2021/03/galata-kulesi-fotograflari-istanbul-fotograflari-cekergezer-hakan-aydin.jpg)
+
+## :star: My favorite projects
 
 :detective: [**reddit-detective:**](https://github.com/umitkaanusta/reddit-detective) Detect political disinformation campaigns, discover how ideas spread between communities, find "cyborg-like" activities carried out by bots and more in Reddit [![Downloads](https://pepy.tech/badge/reddit-detective)](https://pepy.tech/project/reddit-detective)
 
