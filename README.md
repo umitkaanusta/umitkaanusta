@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Ümit Kaan Usta 
 
-![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views]
+![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta)
 
 CS student creating cool tools here, aspiring to become a polymath
 
