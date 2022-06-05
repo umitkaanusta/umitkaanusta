@@ -20,7 +20,6 @@ CS student creating cool tools here, aspiring to become a polymath
 
 ## Say Hi
 
-:bridge_at_night: A bay area cliché: Let me know how I can be helpful
-
+[![Blog](https://img.shields.io/badge/blog-%231fcc44.svg?style=for-the-badge)](https://umitkaanusta.com)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umitkaanusta) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umitkaanusta)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u.kaanusta@gmail.com)
