@@ -2,11 +2,9 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta)
 
-CS student creating cool tools here, aspiring to become a polymath
+Interests: Machine learning (time-series and graphs), Explainable AI, Social networks, Venture capital
 
-:mag: **Interests:** Data science for strategic decision making, Blockchain, NLP, Network Science, Computational Social Science
-
-:round_pushpin: [Istanbul, Turkey](https://cekergezer.com/wp-content/uploads/2021/03/galata-kulesi-fotograflari-istanbul-fotograflari-cekergezer-hakan-aydin.jpg)
+Currently: Learning Lisp & CUDA
 
 ## :star: My favorite projects
 
