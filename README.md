@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Ümit Kaan Usta 
+# :wave: Hi, I'm Umit
 
 ![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta)
 
