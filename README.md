@@ -1,5 +1,7 @@
 # :wave: Hi, I'm Umit
 
+building insidercat.com on the side
+
 ![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta)
 
 Interests: Machine learning (time-series and graphs), Explainable AI, Social networks, Venture capital
@@ -16,8 +18,3 @@ Currently: Learning Lisp & CUDA
 
 :moneybag: [**Trying a New Fraud Detection Approach for Trust Networks**](https://github.com/umitkaanusta/FraudRingDetection-TrustNetworks-Trying-New-Approach) While trying to detect fraud rings in the bitcoin-otc network, I **came up with an individual fraud detection approach which is better than 9 of 10 well-known network-based fraud detection algorithms for this problem**. (At least for this data set, I'll try it in different datasets and tune the models when I have time for that)
 
-## Say Hi
-
-[![Blog](https://img.shields.io/badge/blog-%231fcc44.svg?style=for-the-badge)](https://umitkaanusta.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umitkaanusta) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umitkaanusta)
