@@ -1,12 +1,10 @@
 # :wave: Hi, I'm Umit
 
-building [insidercat.com](https://insidercat.com) on the side
-
 ![GitHub User's stars](https://img.shields.io/github/stars/umitkaanusta?style=social) ![Views](https://komarev.com/ghpvc/?username=umitkaanusta)
 
 Interests: Machine learning (time-series and graphs), Explainable AI, Social networks, Venture capital
 
-Currently: Learning Lisp & CUDA
+Currently: Learning CUDA
 
 ## :star: My favorite projects
 
